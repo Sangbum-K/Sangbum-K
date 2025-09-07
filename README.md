@@ -1,9 +1,11 @@
 ## ✔️ Education 
-**Dankook University, South Korea (MAR 2021 - Dec 2022)** 
-- Major: SW Convergence and Mobile System Engineering
+**Dankook University, South Korea (Mar 2021 - Dec 2022)**
+- Department of Mobile System Engineering
 
-**Hanyang University, South Korea (MAR 2024 - )** 
-- Major: Data Science
+<br>
+
+**Hanyang University, South Korea (Mar 2024 - )** 
+- Department of Data Science
 
 <br>
 
@@ -22,8 +24,8 @@
   
 - Programming Languages: Python, JAVA, SQL
   
-- Technical qualifications : 
-
+- Technical qualifications :
+  
 - language qualification : 
 
 <br>

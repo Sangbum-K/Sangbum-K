@@ -15,12 +15,12 @@
 
 <br>
 
-**CX Data Visualization Project**
+[🔗](https://github.com/Sangbum-K/KPC_NCSI_Report) **CX Data Visualization Project**
 - Power BI
 
 <br>
 
-## ✔️ SKILLS 
+## ✔️ Skills 
   
 - Programming Languages: Python, JAVA, SQL
   

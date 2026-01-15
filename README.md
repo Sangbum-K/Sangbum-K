@@ -10,13 +10,13 @@
 <br>
 
 ## ✔️ Experience 
-[🔗](https://github.com/Sangbum-K/NCSI_Web) **NCSI Web Pages Renewal**
-- Spring, Mysql
+**Korea Productivity Center (KPC) Intership (May 2025 - Jan 2026)**
+  <br>
+  ㄴ[🔗](https://github.com/Sangbum-K/NCSI_Web) **NCSI Web Pages Renewal**
+  <br>
+  ㄴ[🔗](https://github.com/Sangbum-K/KPC_NCSI_Report) **CX Data Visualization Project**
 
-<br>
 
-[🔗](https://github.com/Sangbum-K/KPC_NCSI_Report) **CX Data Visualization Project**
-- Power BI
 
 <br>
 

@@ -12,11 +12,9 @@
 ## ✔️ Experience 
 **Korea Productivity Center (KPC) Intership (May 2025 - Jan 2026)**
   <br>
-  ㄴ[🔗](https://github.com/Sangbum-K/NCSI_Web) **NCSI Web Pages Renewal**
-  <br>
-  ㄴ[🔗](https://github.com/Sangbum-K/KPC_NCSI_Report) **CX Data Visualization Project**
+  - [🔗](https://github.com/Sangbum-K/NCSI_Web) NCSI Web Pages Renewal
 
-
+  - [🔗](https://github.com/Sangbum-K/KPC_NCSI_Report) CX Data Visualization Project
 
 <br>
 

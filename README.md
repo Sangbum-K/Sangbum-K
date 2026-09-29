@@ -1,13 +1,4 @@
-## ✔️ Education 
-**Dankook University, South Korea (Mar 2021 - Dec 2022)**
-- Department of Mobile System Engineering
 
-<br>
-
-**Hanyang University, South Korea (Mar 2024 - )** 
-- Department of Data Science
-
-<br>
 
 ## ✔️ Experience 
 **Korea Productivity Center (KPC) Intership (May 2025 - Jan 2026)**
